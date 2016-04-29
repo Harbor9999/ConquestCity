@@ -48,7 +48,7 @@ APP NAME : 城市攻略  Demo V1.1
 
 软件的版本信息
 
-
+![UI](https://github.com/Harbor9999/ConquestCity/blob/master/城市攻略设计草稿/攻略界面.jpeg)
 --------------
 
 编写代码遇到的一些问题点：
