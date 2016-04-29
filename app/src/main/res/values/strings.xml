@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">城市攻略</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="main_ui_conquest">攻略</string>
+    <string name="main_ui_transfer">换城</string>
+    <string name="main_ui_more">更多</string>
+
+     <string name="cloth">
+          \n1.东门老街
+          \n2.华南城
+          \n3.华强北
+          \n4.前海自贸区
+          \n5.免税店
+     </string>
+
+        <string name="food">\n1.城市快餐
+\n2.湘多府
+\n3.湘悦华府
+\n4.真功夫
+\n5.味千拉面</string>
+
+    <string name="company">\n1.腾讯科技
+\n2.华为
+\n3.富士康
+\n4.万科
+\n5.宝能</string>
+
+     <string name="house">\n1.农民房
+\n2.商品房
+\n3.安居房
+\n4.廉租房
+\n5.保障房</string>
+
+     <string name="travel">\n1.大鹏所城
+\n2.莲山春早
+\n3.侨城锦绣
+\n4.深南溢彩
+\n5.梧桐烟雨
+\n6.梅沙大浪
+\n7.一街两制
+\n8.羊台叠翠</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
